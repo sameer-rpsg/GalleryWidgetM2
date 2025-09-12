@@ -14,17 +14,20 @@ const Article = () => {
                 <p style={{ fontWeight: 300 }}>
                   <a href="/fashion-beauty">Fashion &amp; Beauty</a>
                   <span>&nbsp; &gt; &nbsp;</span>
-                  <a href="/fashion-beauty/shopping">Shopping</a>
+                  <a href="/fashion-beauty/shopping">Jewellery</a>
                 </p>
               </div>
               <div className="contr-fluid">
                 <div className="contr-fluid_inner">
                   <h1>
-                    Dear bridesmaids, You Might Want To Invest In A Corset
-                    Outfit This Wedding Season
+                    How To Style Statement Pieces By Renu Oberoi Luxury
+                    Jewellery
                   </h1>
                   <div className="para-ButFlex">
-                    <p>Bonus? They flatter every body type!</p>
+                    <p>
+                      The exquisite handcrafted pieces by the label are perfect
+                      if you want to stand out with your style…
+                    </p>
                   </div>
                 </div>
                 <div className="detailed-media_info">
@@ -32,7 +35,7 @@ const Article = () => {
                     <div className="card-meta_meta_inner">
                       <div className="card-meta_item">
                         <span className="card-meta_label text-7">
-                          Sep 5, 2025
+                          Jan 5, 2025
                         </span>
                       </div>
                       <div className="card-meta_item">
@@ -42,7 +45,7 @@ const Article = () => {
                             className="author-link"
                             href="/author/palak-valecha"
                           >
-                            Palak Valecha
+                            By Team Manifest
                           </a>
                         </span>
                       </div>
@@ -101,16 +104,16 @@ const Article = () => {
                     //     color: "transparent"
                     //   }}
                     sizes="100vw"
-                    src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-04T10%253A25%253A13.437Z-Untitled%2520design%2520-%25202025-09-04T154543.191.jpg&w=750&q=75"
+                    src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2F2024%2F12%2FRenu-Oberoi-Luxury-Jewellery-main.jpg&w=1920&q=75"
                   />
                 </div>
                 <div className="Stories_caption_wrapper">
-                  <span className="Stories_caption">
+                  {/* <span className="Stories_caption">
                     L-R: Ananya Panday, Bhumi Pednekar
                   </span>
                   <span className="Stories_courtesy">
                     L-R: Instagram/Ananya Panday, Instagram/Bhumi Pednekar
-                  </span>
+                  </span> */}
                 </div>
               </div>
               <div className="StoriesInfo_wrapper">
@@ -120,8 +123,14 @@ const Article = () => {
                       <div className="rich-text_wrapper">
                         <p style={{ textAlign: "left" }}>
                           <span style={{ color: "rgb(0, 0, 0)" }}>
-                            If you are going to invest in one outfit this
-                            wedding season, let it be something with a{" "}
+                            If you’re looking to make a statement with your
+                            OOTD, there’s no better way to do it than by going
+                            for an exquisite piece of jewellery. Nobody
+                            understands this better than Renu Oberoi. The
+                            jewellery designer established her eponymous label
+                            in 2008 to marry her interest in Indian traditional
+                            jewellery and craftsmanship with modern trends and
+                            wearability.
                           </span>
                           <a
                             target="_blank"
@@ -148,10 +157,23 @@ const Article = () => {
                           </a>
                           <span style={{ color: "rgb(0, 0, 0)" }}>
                             {" "}
-                            or a corset and a draped skirt but hop onto the
-                            corset bandwagon this wedding season. Because
-                            corsets are huge right now—from runways to celebrity
-                            closets, they are all the rage. The biggest{" "}
+                            Over the years, the brand has become synonymous with
+                            handcrafted pieces made with superior-quality
+                            diamonds and coloured gemstones. Renu Oberoi
+                            handpicks gemstones for the jewellery so that each
+                            piece is unique. The handcrafted pieces can be
+                            dressed up and down and are a favourite amongst
+                            bijoux-lovers for their versatility. The label has
+                            been a mainstay in India’s luxury jewellery
+                            landscape ever since its establishment and continues
+                            to make its mark, whether it's on prestigious red
+                            carpets like the Cannes Film Festivals or fashion
+                            events like the London Fashion Week or India Couture
+                            Week. Since the brand is known for its unique,
+                            statement-making pieces in coloured gemstones, we
+                            decided to round up some of our favourites and share
+                            styling tips on how to get it right this wedding and
+                            party season…
                           </span>
                           <a
                             target="_blank"
@@ -159,13 +181,13 @@ const Article = () => {
                             style={{ color: "rgb(0, 0, 0)" }}
                             href="https://www.manifestmagazine.in/fashion-beauty/features/bridal-wear-trend-report-hyundai-india-couture-week-2025"
                           >
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
+                            {/* <span style={{ color: "rgb(0, 0, 0)" }}>
                               trend spotted at the India Couture Week 2025
-                            </span>
+                            </span> */}
                           </a>
-                          <span style={{ color: "rgb(0, 0, 0)" }}>
+                          {/* <span style={{ color: "rgb(0, 0, 0)" }}>
                             ? Also, corsets!
-                          </span>
+                          </span> */}
                           <br />
                         </p>
                       </div>
@@ -218,8 +240,7 @@ const Article = () => {
                             >
                               <strong>Features</strong>
                               <h3 className="card-title mb-0">
-                                Form Flattering Corsets And Breastplates Are The
-                                New Blouses
+                                Statement Pieces By Renu Oberoi Luxury Jewellery
                               </h3>
                               <span className="author"> Team Manifest</span>
                             </div>
@@ -232,84 +253,19 @@ const Article = () => {
                     <div className="">
                       <div className="rich-text_wrapper">
                         <p style={{ textAlign: "left" }}>
-                          <span style={{ color: "rgb(0, 0, 0)" }}>
+                          {/* <span style={{ color: "rgb(0, 0, 0)" }}>
                             With meticulous boning that accentuates a woman’s
                             natural curves and makes the garment hug the body
                             like a glove, no other piece of clothing can match
                             the complex artistry of the corset. Not to mention
                             they flatter every body type!
-                          </span>
-                          <br />
+                          </span> */}
+                          {/* <br /> */}
                         </p>
                       </div>
                     </div>
                   </div>
-                  <div className="StoriesInfo_left_innercntr-full-width">
-                    <div
-                      style={{
-                        display: "flex",
-                        justifyContent: "center",
-                        width: "100%",
-                      }}
-                    >
-                      <div
-                        className="media-grid_wrapper"
-                        style={{ width: "100%" }}
-                      >
-                        <div className="media-grid_wrapper_inner-full-width">
-                          <img
-                            alt="Janhvi Kapoor in a corset"
-                            loading="lazy"
-                            width={700}
-                            height={475}
-                            decoding="async"
-                            data-nimg={1}
-                            style={{
-                              color: "transparent",
-                              width: "100%",
-                              height: "auto",
-                            }}
-                            sizes="100vw"
-                            src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-04T10%253A25%253A13.431Z-SnapInsta.to_470563398_18474385063006330_189191875417241461_n.jpg&w=3840&q=75"
-                          />
-                          <div className="Stories_caption_wrapper">
-                            <span className="Stories_caption">
-                              Janhvi Kapoor in a corset
-                            </span>
-                            <span className="Stories_courtesy">
-                              Instagram/Janhvi Kapoor
-                            </span>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="StoriesInfo_left_innercntr-full-width">
-                    <div className="">
-                      <div className="rich-text_wrapper">
-                        <p style={{ textAlign: "left" }}>
-                          <span style={{ fontStyle: "italic" }}>Buy it </span>
-                          <a
-                            target="_blank"
-                            rel="noreferrer, nofollow"
-                            style={{ fontWeight: "bold", fontStyle: "italic" }}
-                            href="https://jayantireddy.com/collections/lehenga-set/products/beige-gold-lehenga-with-corset"
-                          >
-                            <span
-                              style={{
-                                fontWeight: "bold",
-                                fontStyle: "italic",
-                              }}
-                            >
-                              here
-                            </span>
-                          </a>
-                          <br />
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                  <br />
+                 
                   <GalleryWidget2 />
 
                   <div className="StoriesInfo_left_innercntr-full-width">
@@ -763,8 +719,7 @@ const Article = () => {
                         </div>
                       </div>
                     </div>
-                    
-                    
+
                     <div className="StoriesInfo_left_innercntr-full-width">
                       <div className="">
                         <div className="rich-text_wrapper">
@@ -805,7 +760,7 @@ const Article = () => {
                         </div>
                       </div>
                     </div>
-                    
+
                     <div className="StoriesInfo_left_innercntr-full-width">
                       <div className="">
                         <div className="rich-text_wrapper">
@@ -990,7 +945,7 @@ const Article = () => {
           <br></br>
           <br></br>
           <br></br>
-           <br></br>
+          <br></br>
           <br></br>
           <br></br>
         </div>

@@ -90,10 +90,10 @@
   width: 100%;
 }
 .galleyTitle {
-  font-size: 2rem !important;
+  font-size: 1rem !important;
 }
 .gallerypara {
-  font-size: 1.5rem !important;
+  font-size: 1rem !important;
 }
 .ViewgalleryBtnWrapper {
   flex: none;
