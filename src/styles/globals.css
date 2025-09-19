@@ -4221,3 +4221,27 @@ ul li {
 
 /* navbar */
 
+@media only screen and (min-width: 1401px) and (max-width: 1650px) {
+    .container {
+        max-width: 1400px;
+        padding-right: 0;
+        padding-left: 0;
+    }
+}
+.grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 30px;
+    gap: 30px;
+}
+@media only screen and (max-width: 767px) {
+    .grid {
+        display: grid;
+        grid-template-columns: 1fr !important;
+        grid-gap: 0 !important;
+        gap: 0 !important;
+        padding: 2px 0 !important;
+        border-top: 1px solid #000;
+        border-bottom: 1px solid #000;
+    }
+}

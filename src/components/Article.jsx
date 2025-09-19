@@ -8,947 +8,1223 @@ const Article = () => {
       <Header />
       <div className="story-container" style={{ position: "relative" }}>
         <div className="Stories_wrapper" style={{ padding: "4rem 0 0 0" }}>
-          <div className="container">
-            <div className="story-top">
-              <div className="breadcrumb">
-                <p style={{ fontWeight: 300 }}>
-                  <a href="/fashion-beauty">Fashion &amp; Beauty</a>
-                  <span>&nbsp; &gt; &nbsp;</span>
-                  <a href="/fashion-beauty/shopping">Jewellery</a>
-                </p>
+    <div className="container">
+      <div className="ad-flex-all">
+        <div
+          id="div-gpt-ad-stories-mobile-top-68c7e62312412d63ea3297de}"
+          data-cy="Ad"
+          className="ad-text"
+        />
+      </div>
+      <div className="story-top">
+        <div className="breadcrumb">
+          <p style={{ fontWeight: 300 }}>
+            <a href="/fashion-beauty">Fashion &amp; Beauty</a>
+            <span>&nbsp; &gt; &nbsp;</span>
+            <a href="/fashion-beauty/jewllery">Jewellery</a>
+          </p>
+        </div>
+        <div className="contr-fluid">
+          <div className="contr-fluid_inner">
+            <h1>
+              Our Favourite Jewellery Moments From The Emmys 2025 Red Carpet
+            </h1>
+            <div className="para-ButFlex">
+              <p>Prepare yourself for some serious coveting!</p>
+            </div>
+          </div>
+          <div className="detailed-media_info">
+            <div className="card-meta_meta">
+              <div className="card-meta_meta_inner">
+                <div className="card-meta_item">
+                  <span className="card-meta_label text-7">Sep 18, 2025</span>
+                </div>
+                <div className="card-meta_item">
+                  <span className="card-meta_label text-7">
+                    By{/* */}{" "}
+                    <a className="author-link" href="/author/palak-valecha">
+                      Palak Valecha
+                    </a>
+                  </span>
+                </div>
               </div>
-              <div className="contr-fluid">
-                <div className="contr-fluid_inner">
-                  <h1>
-                    How To Style Statement Pieces By Renu Oberoi Luxury
-                    Jewellery
-                  </h1>
-                  <div className="para-ButFlex">
-                    <p>
-                      The exquisite handcrafted pieces by the label are perfect
-                      if you want to stand out with your style…
-                    </p>
+              <div className="card-actions_actions">
+                <li>
+                  <button className="rounded_btns" aria-label="">
+                    <svg
+                      stroke="currentColor"
+                      fill="currentColor"
+                      strokeWidth={0}
+                      viewBox="0 0 512 512"
+                      height="1em"
+                      width="1em"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path d="M383.822 344.427c-16.045 0-31.024 5.326-41.721 15.979l-152.957-88.42c1.071-5.328 2.142-9.593 2.142-14.919 0-5.328-1.071-9.593-2.142-14.919l150.826-87.35c11.762 10.653 26.741 17.041 43.852 17.041 35.295 0 64.178-28.766 64.178-63.92C448 72.767 419.117 44 383.822 44c-35.297 0-64.179 28.767-64.179 63.92 0 5.327 1.065 9.593 2.142 14.919l-150.821 87.35c-11.767-10.654-26.741-17.041-43.856-17.041-35.296 0-63.108 28.766-63.108 63.92 0 35.153 28.877 63.92 64.178 63.92 17.115 0 32.089-6.389 43.856-17.042l151.891 88.421c-1.076 4.255-2.141 8.521-2.141 13.847 0 34.094 27.806 61.787 62.037 61.787 34.229 0 62.036-27.693 62.036-61.787.001-34.094-27.805-61.787-62.035-61.787z" />
+                    </svg>
+                    <span>Share</span>
+                  </button>
+                </li>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="Stories_wrapper_inner">
+        <div className="ad-flex-all">
+          {/* <div
+            id="div-gpt-ad-stories-top-68c7e62312412d63ea3297de"
+            data-cy="Ad"
+            className="ad-text"
+            data-google-query-id="COuQhNjR5I8DFXOQ2AUd8A8RYw"
+            style={{ margin: "30px auto" }}
+          >
+            <div
+              id="google_ads_iframe_/23290324739/Manifest-Desktop-TOP-970_0__container__"
+              style={{ border: "0pt none", width: 970, height: 0 }}
+            />
+          </div> */}
+        </div>
+        <div className="big-container-blog">
+          <div className="blog-img-container gradient_remove_bg">
+            <img
+              alt="L-R: Lisa, Sydney Sweeney, and Selena Gomes Jewellery Moments at Emmys 2025"
+              loading="lazy"
+              decoding="async"
+              data-nimg="fill"
+              style={{
+                position: "absolute",
+                height: "100%",
+                width: "100%",
+                left: 0,
+                top: 0,
+                right: 0,
+                bottom: 0,
+                color: "transparent"
+              }}
+              sizes="100vw"
+             
+              src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Farticle%2F2025-09-15T10%253A00%253A54.362Z-Untitled%2520design%2520-%25202025-09-15T150554.029.jpg&w=1920&q=75"
+            />
+          </div>
+          <div className="Stories_caption_wrapper">
+            <span className="Stories_caption">
+              L-R: Lisa, Sydney Sweeney, and Selena Gomes
+            </span>
+            <span className="Stories_courtesy">Getty Images</span>
+          </div>
+        </div>
+        <div className="StoriesInfo_wrapper">
+          <div className="StoriesInfo_leftcntr">
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div className="">
+                <div className="rich-text_wrapper">
+                  <p style={{ textAlign: "left" }}>
+                    <span style={{ color: "rgb(0, 0, 0)" }}>
+                      Television’s biggest night of the year just took place at
+                      the Peacock Theater in Los Angeles, and delivered some
+                      really cool moments for all the lovers of TV and fashion.
+                      While we do love a good show, you can consider us the
+                      latter. Don’t get us wrong, the Emmys 2025 did have some
+                      remarkable moments. From Owen Cooper becoming the youngest
+                      actor to win an Emmy, to Tramell Tillman making history by
+                      becoming the first Black man to ever win an Emmy for the
+                      best supporting actor in a drama series, this year’s Emmys
+                      did have some moments that will go down as a moment in
+                      time.
+                    </span>
+                    <br />
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div className="">
+                <div className="rich-text_wrapper">
+                  <p style={{ textAlign: "left" }}>
+                    <br />
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div className="">
+                <div className="rich-text_wrapper">
+                  <p style={{ textAlign: "left" }}>
+                    <span style={{ color: "rgb(0, 0, 0)" }}>
+                      But us being us, we’re always a tad bit more excited for
+                      the red carpet than the actual event. But can you blame
+                      us? Given that the Emmys Red Carpet has a long history of
+                      delivering iconic moments on the fashion front. From Sarah
+                      Jessica Parker’s pink Chanel gown at the 2003 Emmys, to
+                      Zendaya’s green Vera Wang gown in 2019, fashion girlies
+                      always deliver at the Emmys.
+                    </span>
+                    <br />
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div
+                style={{
+                  display: "flex",
+                  justifyContent: "center",
+                  width: "100%"
+                }}
+              >
+                <div className="related-post-wrapper">
+                  <h2 className="related-post-heading">You may also like</h2>
+                  <div className="row" style={{ width: "100%" }}>
+                    <a
+                      className="related-post-card"
+                      target="_blank"
+                      href="/fashion-beauty/features/the-award-for-the-most-stylish-onscreen-groom-goes-to"
+                    >
+                      <div className="related-post-image">
+                        <img
+                          alt="Stylish onscreen grooms"
+                          loading="lazy"
+                          decoding="async"
+                          data-nimg="fill"
+                          className="imgcover"
+                          sizes="100vw"
+                          
+                          src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2F2024%2F06%2Fbanner-2.png&w=1920&q=75"
+                          style={{
+                            position: "absolute",
+                            height: "100%",
+                            width: "100%",
+                            inset: 0,
+                            objectFit: "cover",
+                            color: "transparent"
+                          }}
+                        />
+                      </div>
+                      <div
+                        style={{
+                          width: "100%",
+                          display: "flex",
+                          flexDirection: "column",
+                          gap: 5
+                        }}
+                      >
+                        <strong>Features</strong>
+                        <h3 className="card-title mb-0">
+                          The Award For The Most Stylish Onscreen Groom Goes To…
+                        </h3>
+                        <span className="author"> Palak Valecha</span>
+                      </div>
+                    </a>
                   </div>
                 </div>
-                <div className="detailed-media_info">
-                  <div className="card-meta_meta">
-                    <div className="card-meta_meta_inner">
-                      <div className="card-meta_item">
-                        <span className="card-meta_label text-7">
-                          Jan 5, 2025
-                        </span>
-                      </div>
-                      <div className="card-meta_item">
-                        <span className="card-meta_label text-7">
-                          {/* By */}
-                          <a
-                            className="author-link"
-                            href="/author/palak-valecha"
-                          >
-                            By Team Manifest
-                          </a>
-                        </span>
-                      </div>
-                    </div>
-                    <div className="card-actions_actions">
-                      <li>
-                        <button className="rounded_btns" aria-label="">
-                          <svg
-                            stroke="currentColor"
-                            fill="currentColor"
-                            strokeWidth={0}
-                            viewBox="0 0 512 512"
-                            height="1em"
-                            width="1em"
-                            xmlns="http://www.w3.org/2000/svg"
-                          >
-                            <path d="M383.822 344.427c-16.045 0-31.024 5.326-41.721 15.979l-152.957-88.42c1.071-5.328 2.142-9.593 2.142-14.919 0-5.328-1.071-9.593-2.142-14.919l150.826-87.35c11.762 10.653 26.741 17.041 43.852 17.041 35.295 0 64.178-28.766 64.178-63.92C448 72.767 419.117 44 383.822 44c-35.297 0-64.179 28.767-64.179 63.92 0 5.327 1.065 9.593 2.142 14.919l-150.821 87.35c-11.767-10.654-26.741-17.041-43.856-17.041-35.296 0-63.108 28.766-63.108 63.92 0 35.153 28.877 63.92 64.178 63.92 17.115 0 32.089-6.389 43.856-17.042l151.891 88.421c-1.076 4.255-2.141 8.521-2.141 13.847 0 34.094 27.806 61.787 62.037 61.787 34.229 0 62.036-27.693 62.036-61.787.001-34.094-27.805-61.787-62.035-61.787z"></path>
-                          </svg>
-                          <span>Share</span>
-                        </button>
-                      </li>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div className="">
+                <div className="rich-text_wrapper">
+                  <p style={{ textAlign: "left" }}>
+                    <span style={{ color: "rgb(0, 0, 0)" }}>
+                      So, after several hours of in-depth research, we are ready
+                      to break down the best looks from this year's red carpet.
+                      And because we have an undying love for great jewellery,
+                      we have narrowed down our picks for the most stunning
+                      jewels from the Emmys 2025 Red Carpet. Dive in!
+                    </span>
+                    <br />
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div className="">
+                <div className="rich-text_wrapper">
+                  <h2
+                    style={{
+                      textAlign: "left",
+                      lineHeight: "1.5rem",
+                      margin: "25px 0px 10px 0px"
+                    }}
+                  >
+                    <span style={{ color: "rgb(0, 0, 0)" }}>
+                      Emmys 2025: Best Jewellery Looks
+                    </span>
+                  </h2>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div className="">
+                <div className="rich-text_wrapper">
+                  <h3
+                    style={{
+                      textAlign: "left",
+                      lineHeight: "1.38",
+                      margin: "25px 0px 10px 0px"
+                    }}
+                  >
+                    <span style={{ color: "rgb(0, 0, 0)" }}>
+                      Sydney Sweeney
+                    </span>
+                  </h3>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div
+                style={{
+                  display: "flex",
+                  justifyContent: "center",
+                  width: "100%"
+                }}
+              >
+                <div className="media-grid_wrapper" style={{ width: "100%" }}>
+                  <div className="media-grid_wrapper_inner-full-width">
+                    <img
+                      alt="Sydney Sweeney at Emmy Awards 2025"
+                      loading="lazy"
+                      width={700}
+                      height={475}
+                      decoding="async"
+                      data-nimg={1}
+                      style={{
+                        color: "transparent",
+                        width: "100%",
+                        height: "auto"
+                      }}
+                      sizes="100vw"
+                      
+                      src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-15T09%253A49%253A20.865Z-GettyImages-2235451904-Sydney-Sweeney-2025-Emmys.webp&w=1920&q=75"
+                    />
+                    <div className="Stories_caption_wrapper">
+                      <span className="Stories_caption">Sydney Sweeney</span>
+                      <span className="Stories_courtesy">Getty Images</span>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
-            <div className="Stories_wrapper_inner">
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div className="">
+                <div className="rich-text_wrapper">
+                  <p style={{ textAlign: "left" }}>
+                    <span style={{ color: "rgb(0, 0, 0)" }}>
+                      Sydney Sweeney paired her red custom Oscar de la Renta
+                      gown with jewels from{" "}
+                    </span>
+                    <span style={{ color: "rgb(0, 0, 0)" }}>
+                      Lorraine Schwartz. She went for two chunky diamond rings,
+                      with this stunning marquise-cut diamond necklace. We
+                      approve!
+                    </span>
+                    <br />
+                  </p>
+                </div>
+              </div>
+            </div>
+            <GalleryWidget2/>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div className="">
+                <div className="rich-text_wrapper">
+                  <h3
+                    style={{
+                      textAlign: "left",
+                      lineHeight: "1.38",
+                      margin: "25px 0px 10px 0px"
+                    }}
+                  >
+                    <span style={{ color: "rgb(0, 0, 0)" }}>
+                      Dewayne Perkins
+                    </span>
+                  </h3>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div
+                style={{
+                  display: "flex",
+                  justifyContent: "center",
+                  width: "100%"
+                }}
+              >
+                <div className="media-grid_wrapper" style={{ width: "100%" }}>
+                  <div className="media-grid_wrapper_inner-full-width">
+                    <img
+                      alt="Dewayne Perkins at Emmy Awards 2025"
+                      loading="lazy"
+                      width={700}
+                      height={475}
+                      decoding="async"
+                      data-nimg={1}
+                      style={{
+                        color: "transparent",
+                        width: "100%",
+                        height: "auto"
+                      }}
+                      sizes="100vw"
+                      
+                      src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-15T09%253A37%253A41.788Z-G01x6aCX0AAXrmP.jpg&w=1920&q=75"
+                    />
+                    <div className="Stories_caption_wrapper">
+                      <span className="Stories_caption">Dewayne Perkins</span>
+                      <span className="Stories_courtesy">Getty Images</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div className="">
+                <div className="rich-text_wrapper">
+                  <p style={{ textAlign: "left" }}>
+                    <span style={{ color: "rgb(0, 0, 0)" }}>
+                      Styled by Benjamin Holtrop, Dewayne Perkins wore a custom
+                      Harbison Studio outfit paired with jewels from Michael
+                      Saidian and Lagos. We’re particularly enjoying the lapel
+                      pin and the buttons on his coat.
+                    </span>
+                    <br />
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div
+                style={{
+                  display: "flex",
+                  justifyContent: "center",
+                  width: "100%"
+                }}
+              >
+                <div className="related-post-wrapper">
+                  <h2 className="related-post-heading">You may also like</h2>
+                  <div className="row" style={{ width: "100%" }}>
+                    <a
+                      className="related-post-card"
+                      target="_blank"
+                      href="/fashion-beauty/celebrity-style/priyanka-chopra-best-jewellery-moments"
+                    >
+                      <div className="related-post-image">
+                        <img
+                          alt="Priyanka Chopra’s Jewellery"
+                          loading="lazy"
+                          decoding="async"
+                          data-nimg="fill"
+                          className="imgcover"
+                          sizes="100vw"
+                          
+                          src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2F2024%2F08%2FUntitled-design-45.jpg&w=1920&q=75"
+                          style={{
+                            position: "absolute",
+                            height: "100%",
+                            width: "100%",
+                            inset: 0,
+                            objectFit: "cover",
+                            color: "transparent"
+                          }}
+                        />
+                      </div>
+                      <div
+                        style={{
+                          width: "100%",
+                          display: "flex",
+                          flexDirection: "column",
+                          gap: 5
+                        }}
+                      >
+                        <strong>Celebrity Style</strong>
+                        <h3 className="card-title mb-0">
+                          5 Times Priyanka Chopra’s Jewellery Game Had Us In A
+                          Chokehold
+                        </h3>
+                        <span className="author"> Palak Valecha</span>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div className="">
+                <div className="rich-text_wrapper">
+                  <h3
+                    style={{
+                      textAlign: "left",
+                      lineHeight: "1.38",
+                      margin: "25px 0px 10px 0px"
+                    }}
+                  >
+                    <span style={{ color: "rgb(0, 0, 0)" }}>Selena Gomez</span>
+                  </h3>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
               <div className="ad-flex-all">
                 <div
-                  id="div-gpt-ad-stories-top-68b96f77b90c36af766adda1"
+                  id="div-gpt-ad-stories-middle-13"
                   data-cy="Ad"
-                  data-google-query-id="CMiA9rbOyI8DFV-lZgIdzRM9Ig"
+                  className="ad-text"
+                  data-google-query-id="CJXAhdjR5I8DFW2s2AUd-PIiWg"
                   style={{ margin: "30px auto" }}
                 >
                   <div
-                    id="google_ads_iframe_/23290324739/Manifest-Mobile-Top-300_0__container__"
+                    id="google_ads_iframe_/23290324739/Manifest-Desktop-Middle-300_0__container__"
                     style={{ border: "0pt none", width: 300, height: 0 }}
                   />
                 </div>
               </div>
-              <div className="big-container-blog">
-                <div className="blog-img-container gradient_remove_bg">
-                  <img
-                    alt="L-R: Ananya Panday, Bhumi Pednekar In A Corset Outfit"
-                    loading="lazy"
-                    decoding="async"
-                    data-nimg="fill"
-                    //   style={{
-                    //     position: "absolute",
-                    //     height: "100%",
-                    //     width: "100%",
-                    //     left: 0,
-                    //     top: 0,
-                    //     right: 0,
-                    //     bottom: 0,
-                    //     color: "transparent"
-                    //   }}
-                    sizes="100vw"
-                    src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2F2024%2F12%2FRenu-Oberoi-Luxury-Jewellery-main.jpg&w=1920&q=75"
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div
+                style={{
+                  display: "flex",
+                  justifyContent: "center",
+                  width: "100%"
+                }}
+              >
+                <div className="media-grid_wrapper" style={{ width: "100%" }}>
+                  <div className="media-grid_wrapper_inner-full-width">
+                    <img
+                      alt="Selena Gomez at Emmy Awards 2025"
+                      loading="lazy"
+                      width={700}
+                      height={475}
+                      decoding="async"
+                      data-nimg={1}
+                      style={{
+                        color: "transparent",
+                        width: "100%",
+                        height: "auto"
+                      }}
+                      sizes="100vw"
+                      
+                      src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-15T09%253A49%253A53.413Z-CULT_STY_2025-Emmys_Selena-Gomez_IMG_4x5.webp&w=1920&q=75"
+                    />
+                    <div className="Stories_caption_wrapper">
+                      <span className="Stories_caption">Selena Gomez</span>
+                      <span className="Stories_courtesy">Getty Images</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div className="">
+                <div className="rich-text_wrapper">
+                  <p style={{ textAlign: "left" }}>
+                    <span style={{ color: "rgb(0, 0, 0)" }}>
+                      Selena paired her bright red Louis Vuitton gown with
+                      Tiffany &amp; Co. jewellery. She wore diamond rings from
+                      Jean Schlumberger, along with ruby and diamond studs. PDA
+                      wasn’t the only thing she served on the red carpet, after
+                      all!
+                    </span>
+                    <br />
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div className="">
+                <div className="rich-text_wrapper">
+                  <h3
+                    style={{
+                      textAlign: "left",
+                      lineHeight: "1.5rem",
+                      margin: "25px 0px 10px 0px"
+                    }}
+                  >
+                    <span style={{ color: "rgb(0, 0, 0)" }}>Keri Russell</span>
+                  </h3>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div
+                style={{
+                  display: "flex",
+                  justifyContent: "center",
+                  width: "100%"
+                }}
+              >
+                <div className="media-grid_wrapper" style={{ width: "100%" }}>
+                  <div className="media-grid_wrapper_inner-full-width">
+                    <img
+                      alt="Keri Russell at Emmy Awards 2025"
+                      loading="lazy"
+                      width={700}
+                      height={475}
+                      decoding="async"
+                      data-nimg={1}
+                      style={{
+                        color: "transparent",
+                        width: "100%",
+                        height: "auto"
+                      }}
+                      sizes="100vw"
+                     
+                      src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-15T09%253A50%253A36.720Z-f2e2822a12315960cbd2c5b24519a570.webp&w=1920&q=75"
+                    />
+                    <div className="Stories_caption_wrapper">
+                      <span className="Stories_caption">Keri Russell</span>
+                      <span className="Stories_courtesy">Getty Images</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div className="">
+                <div className="rich-text_wrapper">
+                  <p style={{ textAlign: "left" }}>
+                    <span style={{ color: "rgb(0, 0, 0)" }}>
+                      Keri Russel paired her black Armani Privé dress with
+                      Sabyasachi jewelry. We love to see an Indian designer on
+                      the international red carpet! Also, can we talk about her
+                      huge pearl studs?
+                    </span>
+                    <br />
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div
+                style={{
+                  display: "flex",
+                  justifyContent: "center",
+                  width: "100%"
+                }}
+              >
+                <div className="related-post-wrapper">
+                  <h2 className="related-post-heading">You may also like</h2>
+                  <div className="row" style={{ width: "100%" }}>
+                    <a
+                      className="related-post-card"
+                      target="_blank"
+                      href="/fashion-beauty/jewllery/not-just-beautiful-navratna-jewellery-is-also-astrology-approved"
+                    >
+                      <div className="related-post-image">
+                        <img
+                          alt="Navratna Jewellery"
+                          loading="lazy"
+                          decoding="async"
+                          data-nimg="fill"
+                          className="imgcover"
+                          sizes="100vw"
+                          
+                          src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Farticle%2F2025-09-16T17%253A09%253A32.019Z-image.jpg&w=1920&q=75"
+                          style={{
+                            position: "absolute",
+                            height: "100%",
+                            width: "100%",
+                            inset: 0,
+                            objectFit: "cover",
+                            color: "transparent"
+                          }}
+                        />
+                      </div>
+                      <div
+                        style={{
+                          width: "100%",
+                          display: "flex",
+                          flexDirection: "column",
+                          gap: 5
+                        }}
+                      >
+                        <strong>Jewellery</strong>
+                        <h3 className="card-title mb-0">
+                          Not Just Beautiful, Navratna Jewellery Is Also
+                          Astrology-Approved
+                        </h3>
+                        <span className="author"> Palak Valecha</span>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div className="">
+                <div className="rich-text_wrapper">
+                  <h3
+                    style={{
+                      textAlign: "left",
+                      lineHeight: "1.38",
+                      margin: "25px 0px 10px 0px"
+                    }}
+                  >
+                    <span style={{ color: "rgb(0, 0, 0)" }}>
+                      Michelle Williams
+                    </span>
+                  </h3>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div
+                style={{
+                  display: "flex",
+                  justifyContent: "center",
+                  width: "100%"
+                }}
+              >
+                <div className="media-grid_wrapper" style={{ width: "100%" }}>
+                  <div className="media-grid_wrapper_inner-full-width">
+                    <img
+                      alt="Michelle Williams at Emmy Awards 2025"
+                      loading="lazy"
+                      width={700}
+                      height={475}
+                      decoding="async"
+                      data-nimg={1}
+                      style={{
+                        color: "transparent",
+                        width: "100%",
+                        height: "auto"
+                      }}
+                      sizes="100vw"
+                      
+                      src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-15T09%253A51%253A08.044Z-chanel_michelle-williams-wore-chanel-at-the-77th-primetime-emmy-awards-140925_2-HD-934x1024.webp&w=1920&q=75"
+                    />
+                    <div className="Stories_caption_wrapper">
+                      <span className="Stories_caption">Michelle Williams</span>
+                      <span className="Stories_courtesy">Getty Images</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div className="">
+                <div className="rich-text_wrapper">
+                  <p style={{ textAlign: "left" }}>
+                    <span style={{ color: "rgb(0, 0, 0)" }}>
+                      We loved her romantic Chanel dress, but we loved this
+                      Chanel N°5 necklace more!
+                    </span>
+                    <br />
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div className="">
+                <div className="rich-text_wrapper">
+                  <h3
+                    style={{
+                      textAlign: "left",
+                      lineHeight: "1.38",
+                      margin: "25px 0px 10px 0px"
+                    }}
+                  >
+                    <span style={{ color: "rgb(0, 0, 0)" }}>Kristen Bell</span>
+                  </h3>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div
+                style={{
+                  display: "flex",
+                  justifyContent: "center",
+                  width: "100%"
+                }}
+              >
+                <div className="media-grid_wrapper" style={{ width: "100%" }}>
+                  <div className="media-grid_wrapper_inner-full-width">
+                    <img
+                      alt="Kristen Bell at Emmy Awards 2025"
+                      loading="lazy"
+                      width={700}
+                      height={475}
+                      decoding="async"
+                      data-nimg={1}
+                      style={{
+                        color: "transparent",
+                        width: "100%",
+                        height: "auto"
+                      }}
+                      sizes="100vw"
+                      
+                      src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-15T09%253A51%253A47.675Z-CULT_STY_2025-Emmys_Kristen-Bell_IMG_4x5.webp&w=1920&q=75"
+                    />
+                    <div className="Stories_caption_wrapper">
+                      <span className="Stories_caption">Kristen Bell</span>
+                      <span className="Stories_courtesy">Getty Images</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div className="">
+                <div className="rich-text_wrapper">
+                  <p style={{ textAlign: "left" }}>
+                    <span style={{ color: "rgb(0, 0, 0)" }}>
+                      The Nobody Wants This Actress wore a Giorgio Armani Privé
+                      outfit with jewels from Bucherer Fine Jewellery. We’re
+                      living for these dainty diamond danglers!
+                    </span>
+                    <br />
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div className="">
+                <div className="rich-text_wrapper">
+                  <h3
+                    style={{
+                      textAlign: "left",
+                      lineHeight: "1.38",
+                      margin: "25px 0px 10px 0px"
+                    }}
+                  >
+                    <span style={{ color: "rgb(0, 0, 0)" }}>Sarah Paulson</span>
+                  </h3>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div
+                style={{
+                  display: "flex",
+                  justifyContent: "center",
+                  width: "100%"
+                }}
+              >
+                <div className="media-grid_wrapper" style={{ width: "100%" }}>
+                  <div className="media-grid_wrapper_inner-full-width">
+                    <img
+                      alt="Sarah Paulson at Emmy Awards 2025"
+                      loading="lazy"
+                      width={700}
+                      height={475}
+                      decoding="async"
+                      data-nimg={1}
+                      style={{
+                        color: "transparent",
+                        width: "100%",
+                        height: "auto"
+                      }}
+                      sizes="100vw"
+                      
+                      src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-15T09%253A52%253A15.233Z-CULT_STY_2025-Emmys_Sarah-Paulson_IMG_4x5.webp&w=1920&q=75"
+                    />
+                    <div className="Stories_caption_wrapper">
+                      <span className="Stories_caption">Sarah Paulson</span>
+                      <span className="Stories_courtesy">Getty Images</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div className="ad-flex-all">
+                <div
+                  id="div-gpt-ad-stories-middle-27"
+                  data-cy="Ad"
+                  className="ad-text"
+                  data-google-query-id="CNvahdjR5I8DFSej2AUddLwLFw"
+                  style={{ margin: "30px auto" }}
+                >
+                  <div
+                    id="google_ads_iframe_/23290324739/Manifest-Desktop-Middle-300_1__container__"
+                    style={{ border: "0pt none", width: 300, height: 0 }}
                   />
                 </div>
-                <div className="Stories_caption_wrapper">
-                  {/* <span className="Stories_caption">
-                    L-R: Ananya Panday, Bhumi Pednekar
-                  </span>
-                  <span className="Stories_courtesy">
-                    L-R: Instagram/Ananya Panday, Instagram/Bhumi Pednekar
-                  </span> */}
-                </div>
               </div>
-              <div className="StoriesInfo_wrapper">
-                <div className="StoriesInfo_leftcntr">
-                  <div className="StoriesInfo_left_innercntr-full-width">
-                    <div className="">
-                      <div className="rich-text_wrapper">
-                        <p style={{ textAlign: "left" }}>
-                          <span style={{ color: "rgb(0, 0, 0)" }}>
-                            If you’re looking to make a statement with your
-                            OOTD, there’s no better way to do it than by going
-                            for an exquisite piece of jewellery. Nobody
-                            understands this better than Renu Oberoi. The
-                            jewellery designer established her eponymous label
-                            in 2008 to marry her interest in Indian traditional
-                            jewellery and craftsmanship with modern trends and
-                            wearability.
-                          </span>
-                          <a
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            style={{ color: "rgb(0, 0, 0)" }}
-                            href="https://www.manifestmagazine.in/tag/corset"
-                          >
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              corset
-                            </span>
-                          </a>
-                          <span style={{ color: "rgb(0, 0, 0)" }}>
-                            . Doesn’t matter if it is a{" "}
-                          </span>
-                          <a
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            style={{ color: "rgb(0, 0, 0)" }}
-                            href="https://www.manifestmagazine.in/fashion-beauty/celebrity-style/get-the-look-bhumi-pednekar-cobalt-blue-corset-sari"
-                          >
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              corset saree
-                            </span>
-                          </a>
-                          <span style={{ color: "rgb(0, 0, 0)" }}>
-                            {" "}
-                            Over the years, the brand has become synonymous with
-                            handcrafted pieces made with superior-quality
-                            diamonds and coloured gemstones. Renu Oberoi
-                            handpicks gemstones for the jewellery so that each
-                            piece is unique. The handcrafted pieces can be
-                            dressed up and down and are a favourite amongst
-                            bijoux-lovers for their versatility. The label has
-                            been a mainstay in India’s luxury jewellery
-                            landscape ever since its establishment and continues
-                            to make its mark, whether it's on prestigious red
-                            carpets like the Cannes Film Festivals or fashion
-                            events like the London Fashion Week or India Couture
-                            Week. Since the brand is known for its unique,
-                            statement-making pieces in coloured gemstones, we
-                            decided to round up some of our favourites and share
-                            styling tips on how to get it right this wedding and
-                            party season…
-                          </span>
-                          <a
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            style={{ color: "rgb(0, 0, 0)" }}
-                            href="https://www.manifestmagazine.in/fashion-beauty/features/bridal-wear-trend-report-hyundai-india-couture-week-2025"
-                          >
-                            {/* <span style={{ color: "rgb(0, 0, 0)" }}>
-                              trend spotted at the India Couture Week 2025
-                            </span> */}
-                          </a>
-                          {/* <span style={{ color: "rgb(0, 0, 0)" }}>
-                            ? Also, corsets!
-                          </span> */}
-                          <br />
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="StoriesInfo_left_innercntr-full-width">
-                    <div
-                      style={{
-                        display: "flex",
-                        justifyContent: "center",
-                        width: "100%",
-                      }}
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div className="">
+                <div className="rich-text_wrapper">
+                  <p style={{ textAlign: "left" }}>
+                    <span style={{ color: "rgb(0, 0, 0)" }}>
+                      We’re loving Sarah Paulson’s feathered Marc Jacobs gown,
+                      but let's take a moment to appreciate that Boucheron
+                      necklace and also that little earcuff that all our{" "}
+                    </span>
+                    <a
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      style={{ color: "rgb(0, 0, 0)" }}
+                      href="https://www.manifestmagazine.in/webstories/all/gorgeous-ear-cuffs-to-dress-up-your-ears"
                     >
-                      <div className="related-post-wrapper">
-                        <h2 className="related-post-heading">
-                          You may also like
-                        </h2>
-                        <div className="row" style={{ width: "100%" }}>
-                          <a
-                            className="related-post-card"
-                            target="_blank"
-                            href="/fashion-beauty/features/corsets-breastplates-are-the-new-blouse"
-                          >
-                            <div className="related-post-image">
-                              <img
-                                alt="Suneet Varma breastplates"
-                                loading="lazy"
-                                decoding="async"
-                                data-nimg="fill"
-                                className="imgcover"
-                                sizes="100vw"
-                                src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Farticle%2F2025-06-10T08%253A00%253A51.991Z-image.jpg&w=3840&q=75"
-                                style={{
-                                  position: "absolute",
-                                  height: "100%",
-                                  width: "100%",
-                                  inset: 0,
-                                  objectFit: "cover",
-                                  color: "transparent",
-                                }}
-                              />
-                            </div>
-                            <div
-                              style={{
-                                width: "100%",
-                                display: "flex",
-                                flexDirection: "column",
-                                gap: 5,
-                              }}
-                            >
-                              <strong>Features</strong>
-                              <h3 className="card-title mb-0">
-                                Statement Pieces By Renu Oberoi Luxury Jewellery
-                              </h3>
-                              <span className="author"> Team Manifest</span>
-                            </div>
-                          </a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="StoriesInfo_left_innercntr-full-width">
-                    <div className="">
-                      <div className="rich-text_wrapper">
-                        <p style={{ textAlign: "left" }}>
-                          {/* <span style={{ color: "rgb(0, 0, 0)" }}>
-                            With meticulous boning that accentuates a woman’s
-                            natural curves and makes the garment hug the body
-                            like a glove, no other piece of clothing can match
-                            the complex artistry of the corset. Not to mention
-                            they flatter every body type!
-                          </span> */}
-                          {/* <br /> */}
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                 
-                  <GalleryWidget2 />
-
-                  <div className="StoriesInfo_left_innercntr-full-width">
-                    <div className="">
-                      <div className="rich-text_wrapper">
-                        <p style={{ textAlign: "left" }}>
-                          <span style={{ color: "rgb(0, 0, 0)" }}>
-                            (Not so) Fun Fact: Back in ancient and even
-                            not-so-distant times, corsets weren’t just a fashion
-                            statement—they were a societal expectation. These
-                            structured garments were designed to force women’s
-                            bodies into a specific hourglass shape, often
-                            involving extreme waist cinching to achieve an
-                            unnaturally small waistline. This idealized
-                            silhouette was considered the epitome of femininity
-                            and beauty, driven largely by patriarchal standards
-                            that dictated how women should look and behave.
-                            Unfortunately, this often came at a serious cost.
-                            Prolonged use of tightly laced corsets led to
-                            numerous health problems, including difficulty
-                            breathing, organ compression, and long-term damage
-                            to posture and internal structures. For many women,
-                            wearing a corset was not a matter of choice or
-                            fashion, but rather a requirement to fit in, get
-                            married, or even be seen as respectable in society.
-                            It’s a sobering reminder of how fashion has
-                            historically been used as a tool to control and
-                            confine women under the guise of elegance.
-                          </span>
-                          <b />
-                        </p>
-                        <b></b>
-                      </div>
-                      <b></b>
-                    </div>
-                  </div>
-                  <div className="StoriesInfo_left_innercntr-full-width">
-                    <div
-                      style={{
-                        display: "flex",
-                        justifyContent: "center",
-                        width: "100%",
-                      }}
-                    ></div>
-                    <b></b>
-                  </div>
-                  <b>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              We are fortunate enough to have moved past the
-                              times when corsets were basically a symbol of
-                              patriarchy and can now wear them on our own terms.
-                              So, embrace this beautiful piece of garment this
-                              wedding season, because no matter your style or
-                              body type, there is something for everyone!&nbsp;
-                              Thankfully, times have changed. We are now in an
-                              era where clothing—corsets included—can be chosen
-                              freely, worn on our own terms, and celebrated as a
-                              form of self-expression rather than restriction.
-                              Today, the corset has evolved into a versatile and
-                              empowering garment. It’s no longer just about
-                              shaping the body; it’s about enhancing confidence,
-                              showcasing style, and embracing individuality.
-                              Whether you're into vintage glamour, modern chic,
-                              or bold statements, there's a corset out there
-                              that fits your vibe and body beautifully. So this
-                              wedding season, don’t be afraid to rock a corset
-                              with pride. Whether you’re a guest, part of the
-                              bridal party, or the bride herself, this timeless
-                              piece can be styled in countless ways to reflect
-                              your personality and celebrate your unique form.
-                              Fashion is no longer about conforming—it's about
-                              owning your look and feeling amazing in your skin.
-                              And remember: no matter your shape, size, or
-                              style, there’s a corset out there waiting to make
-                              you feel fabulous.
-                            </span>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <h2
-                            style={{
-                              textAlign: "left",
-                              lineHeight: "1.38",
-                              margin: "25px 0px 10px 0px",
-                            }}
-                          >
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              Our Picks For The Most Beautiful Outfits With
-                              Corsets For The Bridesmaids
-                            </span>
-                          </h2>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div
-                        style={{
-                          display: "flex",
-                          justifyContent: "center",
-                          width: "100%",
-                        }}
-                      >
-                        <div
-                          className="media-grid_wrapper"
-                          style={{ width: "100%" }}
-                        >
-                          <div className="media-grid_wrapper_inner-full-width">
-                            <img
-                              alt="Chitralekha Corset with Lehenga, Mrunalini Rao"
-                              loading="lazy"
-                              width={700}
-                              height={475}
-                              decoding="async"
-                              data-nimg={1}
-                              style={{
-                                color: "transparent",
-                                width: "100%",
-                                height: "auto",
-                              }}
-                              sizes="100vw"
-                              src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-04T10%253A24%253A48.656Z-MR__406_6_11zon.jpeg&w=3840&q=75"
-                            />
-                            <div className="Stories_caption_wrapper">
-                              <span className="Stories_caption">
-                                Chitralekha Corset with Lehenga, Mrunalini Rao
-                              </span>
-                              <span className="Stories_courtesy">
-                                Mrunalini Rao
-                              </span>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ fontStyle: "italic" }}>Buy it </span>
-                            <a
-                              target="_blank"
-                              rel="noreferrer, nofollow"
-                              style={{
-                                fontWeight: "bold",
-                                fontStyle: "italic",
-                              }}
-                              href="https://www.mrunalinirao.com/products/chitralekha-corset-with-lehenga?srsltid=AfmBOor47DChw9Gxy2bzKkQZ_BQwciOL3f9wobuR_s3OI7QKzDkLFhvw"
-                            >
-                              <span
-                                style={{
-                                  fontWeight: "bold",
-                                  fontStyle: "italic",
-                                }}
-                              >
-                                here
-                              </span>
-                            </a>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              This stunning Mrunalini Rao corset lehenga,
-                              adorned with intricate paisley patterns, is
-                              nothing short of a masterpiece. Its vibrant
-                              colors, detailed embroidery, and carefully crafted
-                              silhouette come together to create a look that is
-                              both traditional and refreshingly modern. The
-                              corset-style blouse adds a contemporary edge while
-                              beautifully enhancing the overall elegance of the
-                              outfit. Breathtakingly beautiful and rich in
-                              cultural charm, it’s the perfect choice for a
-                              festive celebration. Whether you're dancing
-                              through your mehendi ceremony or simply soaking in
-                              the joyful vibes, this lehenga is designed to make
-                              a statement and leave a lasting impression.
-                            </span>
-                            <a
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              style={{ color: "rgb(0, 0, 0)" }}
-                              href="https://www.manifestmagazine.in/trends-culture/moodboard/best-bollywood-brides-mehndi-designs"
-                            >
-                              <span style={{ color: "rgb(0, 0, 0)" }}>
-                                perfect for a mehendi
-                              </span>
-                            </a>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>!</span>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div
-                        style={{
-                          display: "flex",
-                          justifyContent: "center",
-                          width: "100%",
-                        }}
-                      >
-                        <div
-                          className="media-grid_wrapper"
-                          style={{ width: "100%" }}
-                        >
-                          <div className="media-grid_wrapper_inner-full-width">
-                            <img
-                              alt="Green Embroidered Corset Skirt Set, Manish Malhotra"
-                              loading="lazy"
-                              width={700}
-                              height={475}
-                              decoding="async"
-                              data-nimg={1}
-                              style={{
-                                color: "transparent",
-                                width: "100%",
-                                height: "auto",
-                              }}
-                              sizes="100vw"
-                              src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-04T10%253A25%253A13.420Z-MM-PR-SK-72156-CR_C-XS-1_5_11zon.jpeg&w=3840&q=75"
-                            />
-                            <div className="Stories_caption_wrapper">
-                              <span className="Stories_caption">
-                                Green Embroidered Corset Skirt Set, Manish
-                                Malhotra
-                              </span>
-                              <span className="Stories_courtesy">
-                                Manish Malhotra
-                              </span>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ fontStyle: "italic" }}>Buy it </span>
-                            <a
-                              target="_blank"
-                              rel="noreferrer, nofollow"
-                              style={{
-                                fontWeight: "bold",
-                                fontStyle: "italic",
-                              }}
-                              href="https://manishmalhotra.in/product/green-embroidered-corset-skirt-set-MM-PR-SK-72156-CR_C-XS"
-                            >
-                              <span
-                                style={{
-                                  fontWeight: "bold",
-                                  fontStyle: "italic",
-                                }}
-                              >
-                                here
-                              </span>
-                            </a>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              Another{" "}
-                            </span>
-                            <a
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              style={{ color: "rgb(0, 0, 0)" }}
-                              href="https://www.manifestmagazine.in/spotlight/little-black-book/6-henna-artists-who-should-be-on-every-brides-radar"
-                            >
-                              <span style={{ color: "rgb(0, 0, 0)" }}>
-                                outfit great for a mehendi
-                              </span>
-                            </a>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              {" "}
-                              if you want to take the traditional route and wear
-                              something green, is this stunning{" "}
-                            </span>
-                            <a
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              style={{ color: "rgb(0, 0, 0)" }}
-                              href="https://www.manifestmagazine.in/fashion-beauty/features/made-in-india-being-global-has-always-been-my-dream-manish-malhotra"
-                            >
-                              <span style={{ color: "rgb(0, 0, 0)" }}>
-                                Manish Malhotra
-                              </span>
-                            </a>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              {" "}
-                              corset and skirt set. Fun fact: it’s a recreation
-                              of{" "}
-                            </span>
-                            <a
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              style={{ color: "rgb(0, 0, 0)" }}
-                              href="https://www.manifestmagazine.in/fashion-beauty/features/get-the-look-kajols-green-outfit-from-mehendi-laga-ke-rakhna"
-                            >
-                              <span style={{ color: "rgb(0, 0, 0)" }}>
-                                Kajol’s mehendi outfit in DDLJ
-                              </span>
-                            </a>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              . How cool is that!
-                            </span>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div
-                        style={{
-                          display: "flex",
-                          justifyContent: "center",
-                          width: "100%",
-                        }}
-                      >
-                        <div
-                          className="media-grid_wrapper"
-                          style={{ width: "100%" }}
-                        >
-                          <div className="media-grid_wrapper_inner-full-width">
-                            <img
-                              alt="Embellished concept saree, Tarun Tahiliani"
-                              loading="lazy"
-                              width={700}
-                              height={475}
-                              decoding="async"
-                              data-nimg={1}
-                              style={{
-                                color: "transparent",
-                                width: "100%",
-                                height: "auto",
-                              }}
-                              sizes="100vw"
-                              src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-04T10%253A25%253A13.415Z-71223tt19-1_2_11zon.jpeg&w=3840&q=75"
-                            />
-                            <div className="Stories_caption_wrapper">
-                              <span className="Stories_caption">
-                                Embellished concept saree, Tarun Tahiliani
-                              </span>
-                              <span className="Stories_courtesy">
-                                Tarun Tahiliani
-                              </span>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ fontStyle: "italic" }}>Buy it </span>
-                            <a
-                              target="_blank"
-                              rel="noreferrer, nofollow"
-                              style={{
-                                fontWeight: "bold",
-                                fontStyle: "italic",
-                              }}
-                              href="https://www.ensembleindia.com/royal-black-sequin-embellished-concept-sari/p/269694?srsltid=AfmBOoqk3TQ2LQIZ67LxaFC_Sg6NL2miBEO-3Erhtb93tQokfbqN75VWFzE"
-                            >
-                              <span
-                                style={{
-                                  fontWeight: "bold",
-                                  fontStyle: "italic",
-                                }}
-                              >
-                                here
-                              </span>
-                            </a>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              Sleek, sexy, and effortless, this black{" "}
-                            </span>
-                            <a
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              style={{ color: "rgb(0, 0, 0)" }}
-                              href="https://www.manifestmagazine.in/fashion-beauty/features/designer-tarun-tahiliani-and-his-love-for-comfortable-couture"
-                            >
-                              <span style={{ color: "rgb(0, 0, 0)" }}>
-                                corset saree by Tarun Tahiliani
-                              </span>
-                            </a>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              {" "}
-                              is the perfect pick for a cocktail!
-                            </span>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              Another fabulous outfit option for a
-                              mehendi—especially if you’re leaning into
-                              tradition and want to wear something green—is this
-                              absolutely stunning Manish Malhotra corset and
-                              skirt set. The rich emerald hue pays homage to the
-                              classic mehendi color palette, while the
-                              silhouette brings a fresh, contemporary twist to a
-                              timeless look. What makes this ensemble even more
-                              special is its nostalgic inspiration: it’s a
-                              modern recreation of the iconic mehendi outfit
-                              worn by Kajol in Dilwale Dulhania Le Jayenge—a
-                              film that has defined romance for an entire
-                              generation. The fusion of cinematic nostalgia and
-                              high-fashion craftsmanship makes this piece not
-                              just beautiful, but meaningful too. So if you’re a
-                              Bollywood lover, a DDLJ fan, or just someone who
-                              appreciates a mix of tradition and trend, this
-                              outfit is the perfect way to celebrate your
-                              mehendi in style—and with a little cinematic
-                              flair! How cool is that?
-                            </span>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              BRB, going to channel our inner barbie energy in
-                              this stunning fishtail lehenga by Mishru!
-                            </span>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              Speaking of vibrant colours, you might want to
-                              consider this electric blue corset set by Dolly J
-                              if you are someone who likes to make an entrance.
-                            </span>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              This corset lehenga by Seema Gujral with 3D
-                              flowers is somehow both demure and minimalistic,
-                              and we are here for it.
-                            </span>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div
-                        style={{
-                          display: "flex",
-                          justifyContent: "center",
-                          width: "100%",
-                        }}
-                      >
-                        <div
-                          className="media-grid_wrapper"
-                          style={{ width: "100%" }}
-                        >
-                          <div className="media-grid_wrapper_inner-full-width">
-                            <img
-                              alt="VIGL4687_11_11zon"
-                              loading="lazy"
-                              width={700}
-                              height={475}
-                              decoding="async"
-                              data-nimg={1}
-                              style={{
-                                color: "transparent",
-                                width: "100%",
-                                height: "auto",
-                              }}
-                              sizes="100vw"
-                              src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-04T10%253A25%253A13.439Z-VIGL4687_11_11zon.jpeg&w=3840&q=75"
-                            />
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ fontStyle: "italic" }}>Buy it </span>
-                            <a
-                              target="_blank"
-                              rel="noreferrer, nofollow"
-                              style={{
-                                fontWeight: "bold",
-                                fontStyle: "italic",
-                              }}
-                              href="https://jayantireddy.com/collections/lehenga-set/products/beige-gold-lehenga-with-corset"
-                            >
-                              <span
-                                style={{
-                                  fontWeight: "bold",
-                                  fontStyle: "italic",
-                                }}
-                              >
-                                here
-                              </span>
-                            </a>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="">
-                      <ul className="Readmore_actions">
-                        <li className="Readmore_actions_first-not-button">
-                          <span>READ MORE STORIES ABOUT :</span>
-                        </li>
-                        <div className="Readmore_actions_inner">
-                          <ul className="card-actions_actions">
-                            <li className="">
-                              <a
-                                className="card-actions_actions_button "
-                                aria-label=""
-                                href="/tag/bridesmaids"
-                              >
-                                <span className="button_label">
-                                  Bridesmaids
-                                </span>
-                              </a>
-                            </li>
-                          </ul>
-                          <ul className="card-actions_actions">
-                            <li className="">
-                              <a
-                                className="card-actions_actions_button "
-                                aria-label=""
-                                href="/tag/corset"
-                              >
-                                <span className="button_label">corset</span>
-                              </a>
-                            </li>
-                          </ul>
-                        </div>
-                      </ul>
-                    </div>
-                  </b>
+                      <span style={{ color: "rgb(0, 0, 0)" }}>earcuff</span>
+                    </a>
+                    <span style={{ color: "rgb(0, 0, 0)" }}>
+                      {" "}
+                      dreams are made of!
+                    </span>
+                    <br />
+                  </p>
                 </div>
               </div>
-
-              {/* <div
-              className="nextStoryContainer container"
-              style={{ backgroundColor: "rgb(250, 247, 243)" }}
-            >
-              <h2 className="nextStoryTitle">
-                <b>Next Story</b>
-              </h2>
-              <b>
-                <div className="nextStoryLine" />
-              </b>
-            </div> */}
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div className="">
+                <div className="rich-text_wrapper">
+                  <h3
+                    style={{
+                      textAlign: "left",
+                      lineHeight: "1.38",
+                      margin: "25px 0px 10px 0px"
+                    }}
+                  >
+                    <span style={{ color: "rgb(0, 0, 0)" }}>Lisa</span>
+                  </h3>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div
+                style={{
+                  display: "flex",
+                  justifyContent: "center",
+                  width: "100%"
+                }}
+              >
+                <div className="media-grid_wrapper" style={{ width: "100%" }}>
+                  <div className="media-grid_wrapper_inner-full-width">
+                    <img
+                      alt="Lisa  at Emmy Awards 2025"
+                      loading="lazy"
+                      width={700}
+                      height={475}
+                      decoding="async"
+                      data-nimg={1}
+                      style={{
+                        color: "transparent",
+                        width: "100%",
+                        height: "auto"
+                      }}
+                      sizes="100vw"
+                      
+                      src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-15T09%253A52%253A15.233Z-CULT_STY_2025-Emmys_Sarah-Paulson_IMG_4x5.webp&w=1920&q=75"
+                    />
+                    <div className="Stories_caption_wrapper">
+                      <span className="Stories_caption">Lisa</span>
+                      <span className="Stories_courtesy">Getty Images</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div className="">
+                <div className="rich-text_wrapper">
+                  <p style={{ textAlign: "left" }}>
+                    <span style={{ color: "rgb(0, 0, 0)" }}>
+                      Lisa wore a pink Lever Couture gown, and paired it with
+                      stunning Bulgari Serpenti jewels. Okay, this might be our
+                      favourite jewellery look from the night.&nbsp;
+                    </span>
+                    <br />
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div className="">
+                <div className="rich-text_wrapper">
+                  <h3
+                    style={{
+                      textAlign: "left",
+                      lineHeight: "1.5rem",
+                      margin: "25px 0px 10px 0px"
+                    }}
+                  >
+                    <span style={{ color: "rgb(0, 0, 0)" }}>Shabana Azeez</span>
+                  </h3>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div
+                style={{
+                  display: "flex",
+                  justifyContent: "center",
+                  width: "100%"
+                }}
+              >
+                <div className="media-grid_wrapper" style={{ width: "100%" }}>
+                  <div className="media-grid_wrapper_inner-full-width">
+                    <img
+                      alt="Shabana Azeez  at Emmy Awards 2025"
+                      loading="lazy"
+                      width={700}
+                      height={475}
+                      decoding="async"
+                      data-nimg={1}
+                      style={{
+                        color: "transparent",
+                        width: "100%",
+                        height: "auto"
+                      }}
+                      sizes="100vw"
+                      
+                      src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-15T09%253A56%253A51.205Z-SnapInsta.to_548010828_18061380098597577_5512519596214318355_n.jpg&w=1920&q=75"
+                    />
+                    <div className="Stories_caption_wrapper">
+                      <span className="Stories_caption">Shabana Azeez</span>
+                      <span className="Stories_courtesy">Getty Images</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div className="">
+                <div className="rich-text_wrapper">
+                  <p style={{ textAlign: "left" }}>
+                    <span style={{ color: "rgb(0, 0, 0)" }}>
+                      We love a good double dangler moment, and Shabana Azeez in
+                      these Michael Saidian is delivering that and how!&nbsp;
+                    </span>
+                    <br />
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div className="">
+                <div className="rich-text_wrapper">
+                  <h3
+                    style={{
+                      textAlign: "left",
+                      lineHeight: "1.38",
+                      margin: "25px 0px 10px 0px"
+                    }}
+                  >
+                    <span style={{ color: "rgb(0, 0, 0)" }}>Chloë Sevigny</span>
+                  </h3>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div
+                style={{
+                  display: "flex",
+                  justifyContent: "center",
+                  width: "100%"
+                }}
+              >
+                <div className="media-grid_wrapper" style={{ width: "100%" }}>
+                  <div className="media-grid_wrapper_inner-full-width">
+                    <img
+                      alt="Chloë Sevigny  at Emmy Awards 2025"
+                      loading="lazy"
+                      width={700}
+                      height={475}
+                      decoding="async"
+                      data-nimg={1}
+                      style={{
+                        color: "transparent",
+                        width: "100%",
+                        height: "auto"
+                      }}
+                      sizes="100vw"
+                      
+                      src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-15T09%253A57%253A23.087Z-CULT_STY_2025-Emmys_Chloe-Sevigny_IMG_4x5.webp&w=1920&q=75"
+                    />
+                    <div className="Stories_caption_wrapper">
+                      <span className="Stories_caption">Chloë Sevigny</span>
+                      <span className="Stories_courtesy">Getty Images</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div className="">
+                <div className="rich-text_wrapper">
+                  <p style={{ textAlign: "left" }}>
+                    <span style={{ color: "rgb(0, 0, 0)" }}>
+                      Chloë Sevigny amped up her black Saint Laurent gown with
+                      the Jean Schlumberger by Tiffany Maltese Cross diamond
+                      clips from Tiffany &amp; Co., and we are here for it!
+                    </span>
+                    <br />
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div className="">
+                <div className="rich-text_wrapper">
+                  <h3
+                    style={{
+                      textAlign: "left",
+                      lineHeight: "1.5rem",
+                      margin: "25px 0px 10px 0px"
+                    }}
+                  >
+                    <span style={{ color: "rgb(0, 0, 0)" }}>Parker Posey</span>
+                  </h3>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div
+                style={{
+                  display: "flex",
+                  justifyContent: "center",
+                  width: "100%"
+                }}
+              >
+                <div className="media-grid_wrapper" style={{ width: "100%" }}>
+                  <div className="media-grid_wrapper_inner-full-width">
+                    <img
+                      alt="Parker Posey at Emmy Awards 2025"
+                      loading="lazy"
+                      width={700}
+                      height={475}
+                      decoding="async"
+                      data-nimg={1}
+                      style={{
+                        color: "transparent",
+                        width: "100%",
+                        height: "auto"
+                      }}
+                      sizes="100vw"
+                      
+                      src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-15T09%253A59%253A51.072Z-fB2pxjrJcBdzy6RhTMcXyC%2520%25281%2529.jpg&w=1920&q=75"
+                    />
+                    <div className="Stories_caption_wrapper">
+                      <span className="Stories_caption">Parker Posey</span>
+                      <span className="Stories_courtesy">Getty Images</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="StoriesInfo_left_innercntr-full-width">
+              <div className="">
+                <div className="rich-text_wrapper">
+                  <p style={{ textAlign: "left" }}>
+                    <span style={{ color: "rgb(0, 0, 0)" }}>
+                      Parker Posey wore a pink Valentino dress and paired it
+                      with a stunning emerald drop necklace from Sabyasachi
+                      Jewellery.
+                    </span>
+                    <br />
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="">
+              <ul className="Readmore_actions">
+                <li className="Readmore_actions_first-not-button">
+                  <span>READ MORE STORIES ABOUT :</span>
+                </li>
+                <div className="Readmore_actions_inner">
+                  <ul className="card-actions_actions">
+                    <li className="">
+                      <a
+                        className="card-actions_actions_button "
+                        aria-label=""
+                        href="/tag/emmys"
+                      >
+                        <span className="button_label">Emmys</span>
+                      </a>
+                    </li>
+                  </ul>
+                  <ul className="card-actions_actions">
+                    <li className="">
+                      <a
+                        className="card-actions_actions_button "
+                        aria-label=""
+                        href="/tag/international-emmy-awards"
+                      >
+                        <span className="button_label">
+                          International Emmy Awards
+                        </span>
+                      </a>
+                    </li>
+                  </ul>
+                  <ul className="card-actions_actions">
+                    <li className="">
+                      <a
+                        className="card-actions_actions_button "
+                        aria-label=""
+                        href="/tag/red-carpet"
+                      >
+                        <span className="button_label">red carpet</span>
+                      </a>
+                    </li>
+                  </ul>
+                  <ul className="card-actions_actions">
+                    <li className="">
+                      <a
+                        className="card-actions_actions_button "
+                        aria-label=""
+                        href="/tag/jewellery"
+                      >
+                        <span className="button_label">Jewellery</span>
+                      </a>
+                    </li>
+                  </ul>
+                  <ul className="card-actions_actions">
+                    <li className="">
+                      <a
+                        className="card-actions_actions_button "
+                        aria-label=""
+                        href="/tag/emmy-awards-2025"
+                      >
+                        <span className="button_label">Emmy Awards 2025</span>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </ul>
             </div>
           </div>
-          <br></br>
-          <br></br>
-          <br></br>
-          <br></br>
-          <br></br>
-          <br></br>
+          <div className="StoriesInfo_rightcntr ">
+            <div className="article-sidebar sticky-post">
+              <div className="ad-flex-all">
+                <div
+                  id="div-gpt-ad-stories-rhs"
+                  data-cy="Ad"
+                  className="ad-text"
+                  data-google-query-id="CITWhtjR5I8DFfyf2AUd-R8eWg"
+                  style={{ margin: "0px auto" }}
+                >
+                  <div
+                    id="google_ads_iframe_/23290324739/Manifest-Desktop-RHS-300_0__container__"
+                    style={{ border: "0pt none", width: 300, height: 0 }}
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
+        <div className="ad-flex-all">
+          <div
+            id="div-gpt-ad-stories-bottom-68c7e62312412d63ea3297de"
+            data-cy="Ad"
+            className="ad-text"
+            data-google-query-id="CLTRh9jR5I8DFSOe2AUdS5M0Wg"
+            style={{ margin: "50px auto 0px" }}
+          >
+            <div
+              id="google_ads_iframe_/23290324739/Manifest-Desktop-Bottom-300_0__container__"
+              style={{ border: "0pt none", width: 300, height: 0 }}
+            />
+          </div>
+        </div>
+        <div
+          className="nextStoryContainer container"
+          style={{ backgroundColor: "rgb(250, 247, 243)" }}
+        >
+          <h2 className="nextStoryTitle">Next Story</h2>
+          <div className="nextStoryLine" />
+        </div>
+      </div>
+    </div>
+  </div>
         <b>
           <div
             data-id="68b96f77b90c36af766adda1"
