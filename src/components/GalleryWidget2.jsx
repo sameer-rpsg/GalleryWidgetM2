@@ -9,39 +9,39 @@ gsap.registerPlugin(ScrollTrigger);
 
 const galleryData = [
   {
-    title: "Emerald and Diamond Collar by Renu Oberoi Luxury Jewellery",
+    title: "Parker Posey",
     desc:"celeb",
     imageUrl:
-      "https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2F2024%2F12%2FROJ0042_1-1-683x1024.jpg&w=1920&q=75",
-    link: "/sunset",
+      "https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-15T09%253A59%253A51.072Z-fB2pxjrJcBdzy6RhTMcXyC%2520%25281%2529.jpg&w=1920&q=75",
+    link: "#",
   },
   {
-    title: "Ruby and Diamond Earrings by Renu Oberoi Luxury Jewellery",
+    title: "Chloë Sevigny",
     desc:"celeb",
     imageUrl:
-      "https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2F2024%2F12%2FRenu-O-23rd-April_6-1-1024x1024.jpg&w=1920&q=75",
-    link: "/forest",
+      "https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-15T09%253A57%253A23.087Z-CULT_STY_2025-Emmys_Chloe-Sevigny_IMG_4x5.webp&w=1920&q=75",
+    link: "#",
   },
   {
-    title: "South Sea Pearl and Diamond Collar and Earrings by Renu Oberoi Luxury Jewellery",
+    title: "Shabana Azeez",
     desc:"celeb",
     imageUrl:
-      "https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2F2024%2F12%2FROJ0048_1-1-683x1024.jpg&w=1920&q=75",
-    link: "/city",
+      "https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-15T09%253A56%253A51.205Z-SnapInsta.to_548010828_18061380098597577_5512519596214318355_n.jpg&w=1920&q=75",
+    link: "#",
   },
   {
-    title: "Yellow Sapphire and Diamond Earrings by Renu Oberoi Luxury Jewellery",
+    title: "Lisa",
     desc:"celeb",
     imageUrl:
-      "https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2F2024%2F12%2FROJ0149_1-1-1024x1024.jpg&w=1920&q=75",
-    link: "/mountains",
+      "https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-15T09%253A52%253A15.233Z-CULT_STY_2025-Emmys_Sarah-Paulson_IMG_4x5.webp&w=1920&q=75",
+    link: "#",
   },
   {
-    title: "Emerald and Diamond Cuff by Renu Oberoi Luxury Jewellery",
+    title: "Sarah Paulson",
     desc:"celeb",
     imageUrl:
-      "https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2F2024%2F12%2FRenu-O28th-Oct_14-1-1024x1024.jpg&w=1920&q=75",
-    link: "/ocean",
+      "https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-15T09%253A51%253A47.675Z-CULT_STY_2025-Emmys_Kristen-Bell_IMG_4x5.webp&w=1920&q=75",
+    link: "#",
   },
 
 ];
