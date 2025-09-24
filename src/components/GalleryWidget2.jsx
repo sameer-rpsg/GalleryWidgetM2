@@ -9,38 +9,38 @@ gsap.registerPlugin(ScrollTrigger);
 
 const galleryData = [
   {
-    title: "Parker Posey",
+    title: "Tirumala Pure Silver Bracelet: Venketeshwara Edition, Tarakesh",
     desc:"celeb",
     imageUrl:
-      "https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-15T09%253A59%253A51.072Z-fB2pxjrJcBdzy6RhTMcXyC%2520%25281%2529.jpg&w=1920&q=75",
+      "https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-23T08%253A20%253A29.439Z-IMG_0760_3000x_6_11zon.jpeg&w=3840&q=75",
     link: "#",
   },
   {
-    title: "Chloë Sevigny",
+    title: "Bodhi Mangala Silver Necklace, Moha by Geetanjali",
     desc:"celeb",
     imageUrl:
-      "https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-15T09%253A57%253A23.087Z-CULT_STY_2025-Emmys_Chloe-Sevigny_IMG_4x5.webp&w=1920&q=75",
+      "https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-23T08%253A16%253A54.009Z-Bodhi_Mangala_Silver_Necklace_by_MOHA1_11zon.jpeg&w=1920&q=75",
     link: "#",
   },
   {
-    title: "Shabana Azeez",
+    title: "Sleek Eeshta Earrings, Sheetal Zaveri",
     desc:"celeb",
     imageUrl:
-      "https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-15T09%253A56%253A51.205Z-SnapInsta.to_548010828_18061380098597577_5512519596214318355_n.jpg&w=1920&q=75",
+      "https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-23T08%253A13%253A06.803Z-23123szh31-1.jpg&w=1920&q=75",
     link: "#",
   },
   {
-    title: "Lisa",
+    title: "Fascination Necklace, Shaya by CaratLane",
     desc:"celeb",
     imageUrl:
-      "https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-15T09%253A52%253A15.233Z-CULT_STY_2025-Emmys_Sarah-Paulson_IMG_4x5.webp&w=1920&q=75",
+      "https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-23T08%253A05%253A50.733Z-a3aad26AL00559-SS0000_2_2_11zon.jpeg&w=1920&q=75",
     link: "#",
   },
   {
-    title: "Sarah Paulson",
+    title: "Dhenu Necklace, Meera Jaipur",
     desc:"celeb",
     imageUrl:
-      "https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-15T09%253A51%253A47.675Z-CULT_STY_2025-Emmys_Kristen-Bell_IMG_4x5.webp&w=1920&q=75",
+      "https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-23T08%253A05%253A33.502Z-DSC_4077-min_3_11zon.jpeg&w=1920&q=75",
     link: "#",
   },
 
