@@ -87,8 +87,8 @@ useLayoutEffect(() => {
             start: "top 80%",
             end: "top 100%",
             scrub: 2,
-            markers: true,
-            invalidateOnRefresh: true, // 🔑 VERY IMPORTANT
+            // markers: true,
+            invalidateOnRefresh: true, 
           },
         }
       );
