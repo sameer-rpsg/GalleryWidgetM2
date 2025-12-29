@@ -23,7 +23,7 @@ const Article2 = () => {
                     Platinum Love Bands Crafted for the Discerning Modern Couple
                   </h1>
                   <div className="para-ButFlex">
-                    <p>Will come here</p>
+                    <p>(Description will come here)</p>
                   </div>
                 </div>
                 <div className="detailed-media_info">
