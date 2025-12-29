@@ -23,7 +23,7 @@ const Article2 = () => {
                     Platinum Love Bands Crafted for the Discerning Modern Couple
                   </h1>
                   <div className="para-ButFlex">
-                    <p>Take the drama several notches higher!</p>
+                    <p>Will come here</p>
                   </div>
                 </div>
                 <div className="detailed-media_info">
@@ -31,7 +31,7 @@ const Article2 = () => {
                     <div className="card-meta_meta_inner">
                       <div className="card-meta_item">
                         <span className="card-meta_label text-7">
-                          Sep 24, 2025
+                          Dec 29, 2025
                         </span>
                       </div>
                       <div className="card-meta_item">
@@ -177,11 +177,9 @@ const Article2 = () => {
                       </div>
                     </div>
                   </div>
-                 
-                
-                 
+
                   <GalleryWidget2 />
-                 
+
                   <div className="StoriesInfo_left_innercntr-full-width">
                     <div className="">
                       <div className="rich-text_wrapper">
@@ -269,8 +267,6 @@ const Article2 = () => {
                   <div className="article-sidebar sticky-post"></div>
                 </div>
               </div>
-
-            
             </div>
           </div>
         </div>
