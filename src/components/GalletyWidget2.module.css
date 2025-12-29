@@ -47,10 +47,10 @@
 .GalleryListCntr {
   align-content: flex-start;
   align-items: flex-start;
-  display: flex;
+  display: grid;
   flex: none;
   flex-direction: row;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
   gap: 0px;
   height: min-content;
   justify-content: flex-start;
@@ -72,7 +72,7 @@
   overflow: hidden;
   padding: 0;
   position: relative;
-  width: 1px;
+  width: 100%;
 }
 .Gallerytextcntrinner {
   align-content: center;
@@ -186,7 +186,7 @@ font-size: 12px !important;
   padding: 0;
   position: relative;
   text-decoration: none;
-  width: 1px;
+  width: 100%;
   will-change: transform;
   opacity: 1;
   /* transform: perspective(1200px) scale(1); */
@@ -232,6 +232,11 @@ font-size: 12px !important;
 .arrow {
   font-size: 30px;
   line-height: 1;
+}
+@media only screen and (min-width:1024px){
+  .GalleryListCntr{
+    grid-template-columns: 27% 46%;
+  }
 }
 /* cursor */
 @media screen and (max-width: 900px) {

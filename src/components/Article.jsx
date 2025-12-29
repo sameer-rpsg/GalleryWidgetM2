@@ -26,7 +26,7 @@ const Article = () => {
         </div>
         <div className="contr-fluid">
           <div className="contr-fluid_inner">
-            <h1>Coolest Silver Jewellery Pieces For The Maximalist Girlies</h1>
+            <h1>Platinum Love Bands Crafted for the Discerning Modern Couple</h1>
             <div className="para-ButFlex">
               <p>Take the drama several notches higher!</p>
             </div>
@@ -121,10 +121,9 @@ const Article = () => {
                 <div className="rich-text_wrapper">
                   <p style={{ textAlign: "left" }}>
                     <span style={{ color: "rgb(0, 0, 0)" }}>
-                      For centuries, gold jewellery has been associated with
-                      opulence, wealth, and luxury. However,{" "}
+                     In the world of fine jewellery, platinum occupies a rarified space. Naturally white and exceptionally scarce, it is a metal chosen by those who value substance over spectacle. The understated sheen adds an element of gravitas, integral in shaping a relationship that’s imbued in equality. Increasingly, couples are turning to platinum love bands as markers of commitment that feel intentional, enduring, and deeply personal.
                     </span>
-                    <a
+                    {/* <a
                       target="_blank"
                       rel="noopener noreferrer"
                       style={{ color: "rgb(0, 0, 0)" }}
@@ -133,15 +132,12 @@ const Article = () => {
                       <span style={{ color: "rgb(0, 0, 0)" }}>
                         silver jewellery
                       </span>
-                    </a>
+                    </a> */}
                     <span style={{ color: "rgb(0, 0, 0)" }}>
                       {" "}
-                      has gradually been making a place for itself as ceremonial
-                      jewellery, and we are here for it. Although not quite as
-                      luxe as gold jewellery, silver jewellery can be just as
-                      exquisite and ostentatious, even more!&nbsp; For{" "}
+                     At Platinum Love Bands, this character becomes an unspoken language. Crafted in 95 per cent pure platinum, each piece reflects strength, authenticity, and emotional depth. Their philosophy celebrates love in shared rhythms, quiet understanding, and moments of comfortable silence. Drawing on the phenomenon of synchronised heartbeats, the brand transforms emotional connection into design, where platinum becomes an extension of modern relationships.
                     </span>
-                    <a
+                    {/* <a
                       target="_blank"
                       rel="noreferrer, nofollow"
                       style={{ color: "rgb(0, 0, 0)" }}
@@ -150,16 +146,12 @@ const Article = () => {
                       <span style={{ color: "rgb(0, 0, 0)" }}>
                         boho girlies
                       </span>
-                    </a>
+                    </a> */}
                     <span style={{ color: "rgb(0, 0, 0)" }}>
                       {" "}
-                      in particular, silver jewellery is a blessing. Dramatic,
-                      earthy silver jewellery is the way to go when you’re
-                      looking to channel the Boho energy. While silver jewellery
-                      is well acknowledged when it comes to the Boho aesthetics,
-                      they are now being seen as a beautiful choice for{" "}
+                     From entwined motifs symbolising two paths converging to dual-tone details capturing contrast and harmony, Platinum Love Bands unite artistry and emotion in this new collection for the wedding season. Each band is conceived as a distinct expression of connection, articulated through sculptural form, refined texture, and considered finish.
                     </span>
-                    <a
+                    {/* <a
                       target="_blank"
                       rel="noopener noreferrer"
                       style={{ color: "rgb(0, 0, 0)" }}
@@ -168,7 +160,7 @@ const Article = () => {
                       <span style={{ color: "rgb(0, 0, 0)" }}>
                         wedding jewellery
                       </span>
-                    </a>
+                    </a> */}
                     <span style={{ color: "rgb(0, 0, 0)" }}>.</span>
                     <br />
                   </p>
