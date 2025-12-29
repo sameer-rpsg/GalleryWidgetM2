@@ -28,20 +28,20 @@ const Article = () => {
           <div className="contr-fluid_inner">
             <h1>Platinum Love Bands Crafted for the Discerning Modern Couple</h1>
             <div className="para-ButFlex">
-              <p>Take the drama several notches higher!</p>
+              <p>Will come here</p>
             </div>
           </div>
           <div className="detailed-media_info">
             <div className="card-meta_meta">
               <div className="card-meta_meta_inner">
                 <div className="card-meta_item">
-                  <span className="card-meta_label text-7">Sep 24, 2025</span>
+                  <span className="card-meta_label text-7">Dec 29, 2025</span>
                 </div>
                 <div className="card-meta_item">
                   <span className="card-meta_label text-7">
                     By{/* */}{" "}
-                    <a className="author-link" href="/author/palak-valecha">
-                      Palak Valecha
+                    <a className="author-link" href="#">
+                      (Author name)
                     </a>
                   </span>
                 </div>
